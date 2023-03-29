@@ -1,3 +1,0 @@
-
----
-int8   chassis_calib_imu_result #0: success; -1: fail to send cmd; -2: fail to calib; -3: overtime

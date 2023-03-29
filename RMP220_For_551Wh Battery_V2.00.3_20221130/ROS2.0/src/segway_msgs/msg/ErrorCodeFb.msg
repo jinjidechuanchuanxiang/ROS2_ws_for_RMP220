@@ -1,5 +1,0 @@
-uint32 host_error
-uint32 central_error
-uint16 left_motor_error
-uint16 right_motor_error
-uint32 bms_error
